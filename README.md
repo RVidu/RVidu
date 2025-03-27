@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vidusha
-- 👀 I’m interested in Programming & Game Development.
-- 😁 I know Java Script. 
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Programming & Math.
+- 😁 I know Java Script and have a basic knowladge about Python. 
+- 🌱 I’m currently studying ComMath, Physics & ICT as a AL student.
 - 📫 How to reach me
     Instagram - randith_vidusha
     FaceBook - Randith Vidusha
